@@ -3,3 +3,4 @@ Now, we add a new gesture, a command that can delete the hitorical version.
 main test!
 hot-fix test!
 push test
+global proxy test
