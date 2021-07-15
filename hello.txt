@@ -6,3 +6,4 @@ push test
 global proxy test
 pull test
 ssh pull test!
+ssh push test!
